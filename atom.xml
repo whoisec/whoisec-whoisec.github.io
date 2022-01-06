@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://whoisec.github.io</id>
     <title>WHOISEC  - 致力于Web安全</title>
-    <updated>2022-01-04T09:11:28.692Z</updated>
+    <updated>2022-01-06T08:38:00.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://whoisec.github.io"/>
     <link rel="self" href="https://whoisec.github.io/atom.xml"/>
@@ -11,7 +11,14 @@
     <icon>https://whoisec.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, WHOISEC  - 致力于Web安全</rights>
     <entry>
-        <title type="html"><![CDATA[test]]></title>
+        <title type="html"><![CDATA[通杀绕过CF、百度、阿里CDN查服务器真实IP]]></title>
+        <id>https://whoisec.github.io/post/-Y7LT6yqW/</id>
+        <link href="https://whoisec.github.io/post/-Y7LT6yqW/">
+        </link>
+        <updated>2022-01-06T08:28:45.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[win10下输入法消失]]></title>
         <id>https://whoisec.github.io/post/aXScZtiDZ/</id>
         <link href="https://whoisec.github.io/post/aXScZtiDZ/">
         </link>
